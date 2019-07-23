@@ -164,9 +164,6 @@ void main()
 			//median
 		case 20:printf("\n---mode");
 			// mode
-
-
-
 	}//enf of switch
 getch();
 }
